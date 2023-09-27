@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS business_license (
+    ID VARCHAR(255),
+    `LICENSE ID` INT,
+    `ACCOUNT NUMBER` INT,
+    `SITE NUMBER` INT
+);
